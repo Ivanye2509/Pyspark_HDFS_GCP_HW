@@ -1,0 +1,2 @@
+Cluster properties(default: Single node with two workers)
+Job Properties(cores for executor and driver: 4; Spark driver memory: 5GB; Spark executor memory: 5GB):
